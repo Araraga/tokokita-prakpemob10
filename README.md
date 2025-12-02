@@ -15,6 +15,8 @@ Menampilkan antarmuka untuk pendaftaran pengguna baru dan proses masuk (login) k
 <p align="center">
   <img src="registrasi_form.png" alt="Halaman Registrasi" width="200"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="popup_sukses.png" alt="Halaman Registrasi" width="200"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="login_form.png" alt="Halaman Login" width="200"/>
 </p>
 
@@ -35,11 +37,13 @@ Menampilkan daftar produk (**Home**) dan menu navigasi samping (**Sidebar**).
 Menampilkan detail item dan formulir untuk menambah/mengubah data produk.
 
 <p align="center">
-  <img src="detail_produk.png" alt="Halaman Detail Produk" width="200"/>
+  <img src="detail_produk.png" alt="Halaman Detail Produk" width="170"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="tambah_produk.png" alt="Halaman Tambah Produk" width="200"/>
+  <img src="tambah_produk.png" alt="Halaman Tambah Produk" width="170"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="ubah_produk.png" alt="Halaman Ubah Produk" width="200"/>
+  <img src="ubah_produk.png" alt="Halaman Ubah Produk" width="170"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="popup_warning.png" alt="Halaman Ubah Produk" width="170"/>
 </p>
 
 ---
